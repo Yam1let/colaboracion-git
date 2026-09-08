@@ -8,4 +8,7 @@ En este archivo se documentarán buenas prácticas para trabajar con repositorio
 - Evitar subir archivos innecesarios al repositorio.
 
 ## Nuevas recomendaciones
-Los colaboradores deberán agregar recomendaciones adicionales.
+
+- Asegurarse de no estar haciendo las modificaciones en el repostorio original
+
+- Utilizar el comando cd para ubicarse en la carpeta deseada para guardar el proyecto
