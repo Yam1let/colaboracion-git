@@ -7,4 +7,5 @@
 ## Colaboradores
 Agrega tu nombre mediante un Pull Request.
 
--
+-Sofia Quesada Moreno
+-Vanesa Fernanda Estrada Cruz
